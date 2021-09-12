@@ -3,6 +3,8 @@ Visual that compare previous &amp; current KPI values on gradient band. This cus
 
 ![Sample](https://user-images.githubusercontent.com/902578/132976634-3ca6044f-7d1b-4ce9-a1df-9e166eaef960.png)
 
+![Data Table](https://user-images.githubusercontent.com/902578/132976798-a46b164b-5e1f-4a26-aaa8-c328fe215827.png)
+
 ![Data Binding](https://user-images.githubusercontent.com/902578/132976698-2375828e-36bc-48c5-be78-6ddb9867207c.png)
 
 ![Formatting](https://user-images.githubusercontent.com/902578/132976738-4da26139-dd4a-4ce3-880b-c1132e91668a.png)
